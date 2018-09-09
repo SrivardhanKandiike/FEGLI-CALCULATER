@@ -1,0 +1,28 @@
+body{
+	
+	height: 100%;
+	font-family: sans-serif;
+	background-color:#abcdef;
+	font-weight:20px;
+	padding-top:1px;
+	padding-left:150px;
+	text-align:center;
+	text-decoration:bold;
+	
+}
+th{
+	text-align:center;
+	border-radius: 5px;
+	background-color:#FFA500;
+	text-decoration:bold;
+}
+td
+{
+	text-align:center;
+	border-radius: 5px;
+	background-color:#fff0ff;
+    
+h1{
+	text-align:center;
+	padding-right:150px;
+}
